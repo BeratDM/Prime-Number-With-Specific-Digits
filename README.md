@@ -1,3 +1,3 @@
-# Prime-Number-With-Specific-Digits
+# Prime-Numbers-With-Specific-Digits
 
-Simple Python code for finding prime numbers with specific digit count and a desired starting digit.
+Simple Python code for finding prime numbers with given digit counts and a desired starting digit.
