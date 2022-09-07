@@ -18,7 +18,7 @@ def sieve():
 
 def findPrimes(digits, starts_with):
 
-    # Range: 3 -> 99-999
+    # Range: if 3 then between 99-999
     left = int(pow(10, digits - 1))
     right = int(pow(10, digits) - 1)
 
